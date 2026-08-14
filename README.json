@@ -1,0 +1,3231 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Popular Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IDE Helper",
+          "description": "Generates a helper file for IDE auto-completion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T12:28:01Z",
+            "owner": "barryvdh",
+            "repo": "laravel-ide-helper",
+            "stars": 14951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel API/Scaffold/CRUD Generator",
+          "description": "Generator for APIs, CRUD scaffolds etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-07T11:06:38Z",
+            "owner": "InfyOmLabs",
+            "repo": "laravel-generator",
+            "stars": 3826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel API Documentation Generator",
+          "description": "Automatically generate your API documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-23T12:14:27Z",
+            "owner": "mpociot",
+            "repo": "laravel-apidoc-generator",
+            "stars": 3451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaRecipe",
+          "description": "Write gorgeous documentations for your products using Markdown inside your Laravel app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T01:38:25Z",
+            "owner": "saleem-hadad",
+            "repo": "larecipe",
+            "stars": 2502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel 5 Extended Generators",
+          "description": "Extends built-in file generators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-03T13:38:31Z",
+            "owner": "laracasts",
+            "repo": "Laravel-5-Generators-Extended",
+            "stars": 2421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prequel",
+          "description": "A clear and concise database management GUI tweaked for Laravel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-13T11:14:11Z",
+            "owner": "Protoqol",
+            "repo": "Prequel",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Packager",
+          "description": "A CLI tool for creating Laravel packages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-23T19:38:48Z",
+            "owner": "Jeroen-G",
+            "repo": "laravel-packager",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaffold Interface",
+          "description": "A Smart CRUD Generator For Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-03-16T17:54:29Z",
+            "owner": "amranidev",
+            "repo": "scaffold-interface",
+            "stars": 915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workbench Export to Migrations",
+          "description": "Workbench plugin for exporting Models to Laravel migrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T20:59:21Z",
+            "owner": "beckenrode",
+            "repo": "mysql-workbench-export-laravel-5-migrations",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Decomposer",
+          "description": "List all installed packages, their dependencies, app & server details",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Blade",
+            "last_commit": "2026-04-18T06:45:26Z",
+            "owner": "lubusIN",
+            "repo": "laravel-decomposer",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Tinx",
+          "description": "Reload your Laravel Tinker session from inside Tinker",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-12-14T14:53:45Z",
+            "owner": "furey",
+            "repo": "tinx",
+            "stars": 443
+          }
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Debug Bar",
+          "description": "Integrates PHP Debug Bar with Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T12:51:21Z",
+            "owner": "fruitcake",
+            "repo": "laravel-debugbar",
+            "stars": 19276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clockwork",
+          "description": "Integrates Clockwork Chrome extension for debugging and profiling apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T13:36:20Z",
+            "owner": "itsgoingd",
+            "repo": "clockwork",
+            "stars": 5946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Telescope",
+          "description": "Laravel Telescope is an elegant debug assistant for the Laravel framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T14:15:41Z",
+            "owner": "laravel",
+            "repo": "telescope",
+            "stars": 5210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel 5 Log Viewer",
+          "description": "Log viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-12T11:40:11Z",
+            "owner": "rap2hpoutre",
+            "repo": "laravel-log-viewer",
+            "stars": 3192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogViewer",
+          "description": "Provides a log viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-25T13:12:34Z",
+            "owner": "ARCANEDEV",
+            "repo": "LogViewer",
+            "stars": 2390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ignition",
+          "description": "A beautiful error page for Laravel apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-16T02:18:52Z",
+            "owner": "facade",
+            "repo": "ignition",
+            "stars": 2077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mail Preview",
+          "description": "Preview sent mail in a web browser or mail client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-21T10:31:53Z",
+            "owner": "spatie",
+            "repo": "laravel-mail-preview",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Test Factory Generator",
+          "description": "Generate Laravel test factories from your existing models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-18T04:49:12Z",
+            "owner": "mpociot",
+            "repo": "laravel-test-factory-helper",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Terminal",
+          "description": "run artisan in a web browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-17T23:30:19Z",
+            "owner": "recca0120",
+            "repo": "laravel-terminal",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Tail",
+          "description": "The missing tail command",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-21T15:43:54Z",
+            "owner": "spatie",
+            "repo": "laravel-tail",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LERN",
+          "description": "Record exceptions into a database and will send you a notification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-12-17T08:33:48Z",
+            "owner": "tylercd100",
+            "repo": "lern",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Tracy",
+          "description": "A Laravel Package to integrate Nette Tracy Debugger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-15T14:00:45Z",
+            "owner": "recca0120",
+            "repo": "laravel-tracy",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel API Tester",
+          "description": "Postman-like tool with Laravel routes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-25T15:28:41Z",
+            "owner": "asvae",
+            "repo": "laravel-api-tester",
+            "stars": 355
+          }
+        }
+      ],
+      "title": "Testing & Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Permission",
+          "description": "Associate users with roles and permissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-03T21:33:47Z",
+            "owner": "spatie",
+            "repo": "laravel-permission",
+            "stars": 12957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT Auth",
+          "description": "JSON Web Token authentication for APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-06T10:37:13Z",
+            "owner": "tymondesigns",
+            "repo": "jwt-auth",
+            "stars": 11493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entrust",
+          "description": "Role-based Permissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-01-08T21:25:21Z",
+            "owner": "Zizaco",
+            "repo": "entrust",
+            "stars": 6004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Socialite",
+          "description": "OAuth authentication with Facebook, Google, Twitter etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T23:01:33Z",
+            "owner": "laravel",
+            "repo": "socialite",
+            "stars": 5746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bouncer",
+          "description": "Roles & Permissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T18:10:57Z",
+            "owner": "JosephSilber",
+            "repo": "bouncer",
+            "stars": 3579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAuth2 Server Laravel",
+          "description": "OAuth 2.0 authorization server and resource server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-18T08:19:05Z",
+            "owner": "lucadegasperi",
+            "repo": "oauth2-server-laravel",
+            "stars": 2346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laratrust",
+          "description": "Roles, Permissions and teams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-06T14:11:27Z",
+            "owner": "santigarcor",
+            "repo": "laratrust",
+            "stars": 2275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google2FA",
+          "description": "Google Two-Factor Authentication Module",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-27T21:44:12Z",
+            "owner": "antonioribeiro",
+            "repo": "google2fa",
+            "stars": 2006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doorman",
+          "description": "Limit access to your Laravel applications by using invite codes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-03T20:59:18Z",
+            "owner": "clarkeash",
+            "repo": "doorman",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Heyman",
+          "description": "Heyman continues where the above role-permission packages left off",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-30T13:14:31Z",
+            "owner": "imanghafoori1",
+            "repo": "laravel-heyman",
+            "stars": 927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adldap2 Laravel",
+          "description": "LDAP authentication and Active Directory management",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-07-24T20:18:21Z",
+            "owner": "Adldap2",
+            "repo": "Adldap2-Laravel",
+            "stars": 914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel User Verification",
+          "description": "Handle the user verification flow and validate email",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-28T15:26:44Z",
+            "owner": "jrean",
+            "repo": "laravel-user-verification",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Defender",
+          "description": "Roles & Permissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-01T17:35:00Z",
+            "owner": "artesaos",
+            "repo": "defender",
+            "stars": 437
+          }
+        }
+      ],
+      "title": "Authentication & Authorization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Proxy",
+          "description": "Handling sessions when behind load balancers or other intermediaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-09T20:39:37Z",
+            "owner": "fideloper",
+            "repo": "TrustedProxy",
+            "stars": 7307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Modules",
+          "description": "Easy module management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-13T09:11:55Z",
+            "owner": "nWidart",
+            "repo": "laravel-modules",
+            "stars": 6192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Activitylog",
+          "description": "Log activity inside your Laravel app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:08:09Z",
+            "owner": "spatie",
+            "repo": "laravel-activitylog",
+            "stars": 5883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Datatables",
+          "description": "jQuery DataTables API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T03:20:51Z",
+            "owner": "yajra",
+            "repo": "laravel-datatables",
+            "stars": 4866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stancl/tenancy",
+          "description": "Automatic tenancy for your Laravel app. No code changes needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T12:22:49Z",
+            "owner": "archtechx",
+            "repo": "tenancy",
+            "stars": 4391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML",
+          "description": "HTML and Form Builders for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-16T12:39:50Z",
+            "owner": "LaravelCollective",
+            "repo": "html",
+            "stars": 4088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eloquent Sluggable",
+          "description": "Create slugs for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-20T13:52:37Z",
+            "owner": "cviebrock",
+            "repo": "eloquent-sluggable",
+            "stars": 3997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Auditing",
+          "description": "Audit for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-17T13:36:13Z",
+            "owner": "owen-it",
+            "repo": "laravel-auditing",
+            "stars": 3456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEOTools",
+          "description": "Helpers for some common SEO techniques",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-28T12:40:38Z",
+            "owner": "artesaos",
+            "repo": "seotools",
+            "stars": 3363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Phone",
+          "description": "Phone number validator and formatter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-26T09:31:35Z",
+            "owner": "Propaganistas",
+            "repo": "Laravel-Phone",
+            "stars": 3022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Stats Tracker",
+          "description": "Gather information from requests to identify and store",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-19T08:11:37Z",
+            "owner": "antonioribeiro",
+            "repo": "tracker",
+            "stars": 2931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisionable",
+          "description": "Create a revision history for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-25T09:14:35Z",
+            "owner": "VentureCraft",
+            "repo": "revisionable",
+            "stars": 2616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-tenant",
+          "description": "Flexible multi tenancy with secure separation of routes, assets and databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-30T06:54:19Z",
+            "owner": "tenancy",
+            "repo": "multi-tenant",
+            "stars": 2604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Captcha",
+          "description": "An anti-bot image captcha system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-08T01:59:02Z",
+            "owner": "mewebstudio",
+            "repo": "captcha",
+            "stars": 2581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Messenger",
+          "description": "User messaging system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T03:25:54Z",
+            "owner": "cmgmyr",
+            "repo": "laravel-messenger",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Impersonate",
+          "description": "A package to authenticate as one of your users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-17T15:24:28Z",
+            "owner": "404labfr",
+            "repo": "laravel-impersonate",
+            "stars": 2340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel GeoIP",
+          "description": "Determine the location of website visitors based on their IP addresses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-10T19:12:47Z",
+            "owner": "Torann",
+            "repo": "laravel-geoip",
+            "stars": 2228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Hashids",
+          "description": "Generate unique, non-sequential ids using Hashids",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-22T07:24:43Z",
+            "owner": "vinkla",
+            "repo": "laravel-hashids",
+            "stars": 2057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Purifier",
+          "description": "HTML filter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-08T01:43:20Z",
+            "owner": "mewebstudio",
+            "repo": "Purifier",
+            "stars": 1978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Installer",
+          "description": "Allow users to install your application just by following the setup wizard, like WordPress",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-11-28T20:00:49Z",
+            "owner": "rashidlaasri",
+            "repo": "LaravelInstaller",
+            "stars": 1937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Collection Macros",
+          "description": "A set of handy collection macros",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-20T20:46:35Z",
+            "owner": "spatie",
+            "repo": "laravel-collection-macros",
+            "stars": 1908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel UUID",
+          "description": "Generate a UUID according to the RFC 4122 standard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-02T12:15:55Z",
+            "owner": "webpatser",
+            "repo": "laravel-uuid",
+            "stars": 1801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eloquent Filter",
+          "description": "Filter models and their Relationships",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-10T02:16:29Z",
+            "owner": "Tucker-Eric",
+            "repo": "EloquentFilter",
+            "stars": 1764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Tags",
+          "description": "Add tags and taggable behaviour",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:49:45Z",
+            "owner": "spatie",
+            "repo": "laravel-tags",
+            "stars": 1748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Form Builder",
+          "description": "Form builder inspired by Symfony's form builder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-04-09T18:14:05Z",
+            "owner": "kristijanhusak",
+            "repo": "laravel-form-builder",
+            "stars": 1715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Talk",
+          "description": "Realtime User messaging system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-06T16:41:00Z",
+            "owner": "nahid",
+            "repo": "talk",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eloquent Sortable",
+          "description": "Sortable behaviour for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:42:48Z",
+            "owner": "spatie",
+            "repo": "eloquent-sortable",
+            "stars": 1518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Cookie Consent",
+          "description": "Make your Laravel app comply with the crazy EU cookie law",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T06:59:01Z",
+            "owner": "spatie",
+            "repo": "laravel-cookie-consent",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Markdown",
+          "description": "CommonMark markdown parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-06T22:11:56Z",
+            "owner": "GrahamCampbell",
+            "repo": "Laravel-Markdown",
+            "stars": 1346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAT Calculator",
+          "description": "Handle all the hard stuff related to EU MOSS vat regulations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T00:43:14Z",
+            "owner": "laravel",
+            "repo": "vat-calculator",
+            "stars": 1283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Page Cache",
+          "description": "Caches responses as static files on disk for lightning fast page loads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T13:12:46Z",
+            "owner": "JosephSilber",
+            "repo": "page-cache",
+            "stars": 1258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Love",
+          "description": "It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-17T20:42:40Z",
+            "owner": "cybercog",
+            "repo": "laravel-love",
+            "stars": 1203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Mailbox",
+          "description": "A package to handle incoming emails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-20T15:55:26Z",
+            "owner": "beyondcode",
+            "repo": "laravel-mailbox",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Ban",
+          "description": "Simplify blocking and banning Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-01T14:25:58Z",
+            "owner": "cybercog",
+            "repo": "laravel-ban",
+            "stars": 1127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Widgets for Laravel",
+          "description": "A powerful alternative to view composers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-24T04:10:41Z",
+            "owner": "arrilot",
+            "repo": "laravel-widgets",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teamwork",
+          "description": "User to team associations with an invite system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-21T08:11:37Z",
+            "owner": "mpociot",
+            "repo": "teamwork",
+            "stars": 1098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Menu",
+          "description": "Html menu generator for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-02T06:36:04Z",
+            "owner": "spatie",
+            "repo": "laravel-menu",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Validating",
+          "description": "Trait for validating Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-22T10:17:39Z",
+            "owner": "dwightwatson",
+            "repo": "validating",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Setting",
+          "description": "Persistent configuration settings that are stored in JSON files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-11T17:20:37Z",
+            "owner": "anlutro",
+            "repo": "laravel-settings",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awes.io",
+          "description": "boilerplate for CRM, SaaS, ERP based on Vue (Nuxt.js), TailwindCSS plus Laravel as a backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-08-09T13:49:10Z",
+            "owner": "awes-io",
+            "repo": "awes-io",
+            "stars": 864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artisan View",
+          "description": "Manage the views in Laravel projects via artisan",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-09-15T09:51:44Z",
+            "owner": "svenluijten",
+            "repo": "artisan-view",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Video Chat",
+          "description": "Video Chat using Socket.IO and WebRTC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-06-02T20:41:31Z",
+            "owner": "PHPJunior",
+            "repo": "laravel-video-chat",
+            "stars": 814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friendship",
+          "description": "Friendship management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-12-28T11:09:56Z",
+            "owner": "hootlex",
+            "repo": "laravel-friendships",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lavacharts",
+          "description": "Charts and Graphs for PHP Powered by the Google Chart API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-08T05:48:09Z",
+            "owner": "kevinkhill",
+            "repo": "lavacharts",
+            "stars": 618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrapper",
+          "description": "Set of classes to create Bootstrap 3 markup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-21T14:18:28Z",
+            "owner": "patricktalmadge",
+            "repo": "bootstrapper",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Headers",
+          "description": "Add security related headers to HTTP response",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-21T05:27:04Z",
+            "owner": "bepsvpt",
+            "repo": "secure-headers",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Moderation",
+          "description": "Approve or reject resources like posts, comments, users, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-08T03:42:08Z",
+            "owner": "hootlex",
+            "repo": "laravel-moderation",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noCAPTCHA",
+          "description": "Helper for Google's new noCAPTCHA (reCAPTCHA)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-13T08:34:38Z",
+            "owner": "ARCANEDEV",
+            "repo": "noCAPTCHA",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charts",
+          "description": "Multi-library chart package to create interactive charts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-18T15:07:06Z",
+            "owner": "ConsoleTVs",
+            "repo": "Charts",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Breadcrumbs",
+          "description": "Create and manage breadcrumbs",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Listify",
+          "description": "Add sorting/ordering capabilities to any Eloquent model",
+          "children": []
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Intervention Image",
+          "description": "Image handling library for creating, editing and composing images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T12:40:07Z",
+            "owner": "Intervention",
+            "repo": "image",
+            "stars": 14368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Excel",
+          "description": "Import and export Excel and CSV files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T11:00:52Z",
+            "owner": "SpartnerNL",
+            "repo": "Laravel-Excel",
+            "stars": 12698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel DOMPDF",
+          "description": "HTML to PDF generator using dompdf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-09T07:15:08Z",
+            "owner": "barryvdh",
+            "repo": "laravel-dompdf",
+            "stars": 7284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel MediaLibrary",
+          "description": "Associate files with Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T08:16:46Z",
+            "owner": "spatie",
+            "repo": "laravel-medialibrary",
+            "stars": 6157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Snappy",
+          "description": "HTML to PDF generator using wkhtmltopdf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-23T08:22:09Z",
+            "owner": "barryvdh",
+            "repo": "laravel-snappy",
+            "stars": 2754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Excel",
+          "description": "Fast XLSX, CSV and ODT import and export for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T12:42:22Z",
+            "owner": "rap2hpoutre",
+            "repo": "fast-excel",
+            "stars": 2321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravolt Avatar",
+          "description": "Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-06T15:54:23Z",
+            "owner": "laravolt",
+            "repo": "avatar",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel FFmpeg",
+          "description": "This package provides an integration with FFmpeg for Laravel 5.8.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-28T09:35:15Z",
+            "owner": "protonemedia",
+            "repo": "laravel-ffmpeg",
+            "stars": 1812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel ImageUp",
+          "description": "Yet another image manipulation package, adds tons of extra functionality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-15T03:56:48Z",
+            "owner": "qcod",
+            "repo": "laravel-imageup",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Stapler",
+          "description": "ORM-based file upload manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-05-12T15:35:36Z",
+            "owner": "CodeSleeve",
+            "repo": "laravel-stapler",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Glide",
+          "description": "Easily convert images with Glide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-21T21:52:13Z",
+            "owner": "spatie",
+            "repo": "laravel-glide",
+            "stars": 445
+          }
+        }
+      ],
+      "title": "Media & Document Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiveWire",
+          "description": "A magical front-end framework for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T14:00:33Z",
+            "owner": "livewire",
+            "repo": "livewire",
+            "stars": 23565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ziggy",
+          "description": "Use your Laravel named routes in JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-23T23:20:41Z",
+            "owner": "tighten",
+            "repo": "ziggy",
+            "stars": 4316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Vars to JavaScript Transformer",
+          "description": "Pass server-side string/array/collection/whatever to JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-24T22:13:14Z",
+            "owner": "laracasts",
+            "repo": "PHP-Vars-To-Js-Transformer",
+            "stars": 2203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Javascript Validation",
+          "description": "Use validation rules, messages, FormRequest and validators to validate forms in client-side",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-22T07:08:12Z",
+            "owner": "proengsoft",
+            "repo": "laravel-jsvalidation",
+            "stars": 1142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laroute",
+          "description": "Generate Laravel route URLs from JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-01T16:19:30Z",
+            "owner": "aaronlord",
+            "repo": "laroute",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Blade Javascript",
+          "description": "A Blade directive to export variables to JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-20T21:12:23Z",
+            "owner": "spatie",
+            "repo": "laravel-blade-javascript",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Pjax",
+          "description": "A Pjax middleware",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-02T06:36:19Z",
+            "owner": "spatie",
+            "repo": "laravel-pjax",
+            "stars": 510
+          }
+        }
+      ],
+      "title": "Integration with Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel MongoDB",
+          "description": "Eloquent model and query builder with support for MongoDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T10:06:33Z",
+            "owner": "mongodb",
+            "repo": "laravel-mongodb",
+            "stars": 7073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Backup",
+          "description": "Backup your app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T11:21:13Z",
+            "owner": "spatie",
+            "repo": "laravel-backup",
+            "stars": 6018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Repository",
+          "description": "Repositories to abstract the database layer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-27T14:33:20Z",
+            "owner": "andersao",
+            "repo": "l5-repository",
+            "stars": 4198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Nestedset",
+          "description": "Nested Sets pattern implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-11T13:46:29Z",
+            "owner": "lazychaser",
+            "repo": "laravel-nestedset",
+            "stars": 3802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Migrations Generator",
+          "description": "Generate migrations from an existing database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-17T05:44:18Z",
+            "owner": "Xethron",
+            "repo": "migrations-generator",
+            "stars": 3319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iSeed",
+          "description": "Generate a new seed file from an existing database table",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-24T08:59:48Z",
+            "owner": "orangehill",
+            "repo": "iseed",
+            "stars": 2896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sofa/Eloquence",
+          "description": "Extensions for the Eloquent ORM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-21T06:45:39Z",
+            "owner": "jarektkaczyk",
+            "repo": "eloquence",
+            "stars": 1080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel OCI8",
+          "description": "Oracle DB driver via OCI8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T01:14:52Z",
+            "owner": "yajra",
+            "repo": "laravel-oci8",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Doctrine",
+          "description": "Doctrine 2 ORM implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-12T21:36:25Z",
+            "owner": "laravel-doctrine",
+            "repo": "orm",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel MySQL Spatial extension",
+          "description": "easily work with MySQL Spatial Data Types and MySQL Spatial Functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-21T11:31:35Z",
+            "owner": "grimzy",
+            "repo": "laravel-mysql-spatial",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backup Manager",
+          "description": "Backup and restore databases from S3, Dropbox, SFTP etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-02-03T11:42:01Z",
+            "owner": "backup-manager",
+            "repo": "laravel",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lada Cache",
+          "description": "A Redis based, fully automated and scalable database cache layer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-25T12:10:56Z",
+            "owner": "spiritix",
+            "repo": "lada-cache",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenanti",
+          "description": "Multi-tenant database schema manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-13T03:36:47Z",
+            "owner": "orchestral",
+            "repo": "tenanti",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eloquence",
+          "description": "Extra features for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-16T04:17:41Z",
+            "owner": "kirkbushell",
+            "repo": "eloquence",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClosureTable",
+          "description": "Closure table pattern implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-03T15:21:14Z",
+            "owner": "franzose",
+            "repo": "ClosureTable",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "Databases, ORMs, Migrations & Seeding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TNTSearch",
+          "description": "A fully featured full text search engine written in PHP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T22:32:03Z",
+            "owner": "teamtnt",
+            "repo": "tntsearch",
+            "stars": 3194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searchable",
+          "description": "Trait that adds a simple search function to Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-26T01:59:35Z",
+            "owner": "nicolaslopezj",
+            "repo": "searchable",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elasticquent",
+          "description": "Elasticsearch for Eloquent models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-12T01:16:13Z",
+            "owner": "elasticquent",
+            "repo": "Elasticquent",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNTSearch driver",
+          "description": "Driver for Laravel Scout search package based on TNTSearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-11T22:14:19Z",
+            "owner": "teamtnt",
+            "repo": "laravel-scout-tntsearch-driver",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel-Searchy",
+          "description": "Fuzzy search, basic string matching, Levenshtein Distance",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2024-01-02T12:36:03Z",
+            "owner": "TomLingham",
+            "repo": "Laravel-Searchy",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plastic",
+          "description": "Fluently mapping and searching Elasticsearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-03-14T18:24:53Z",
+            "owner": "sleimanx2",
+            "repo": "plastic",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearchIndex",
+          "description": "Store and retrieve objects from Algolia or Elasticsearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-31T10:27:18Z",
+            "owner": "spatie",
+            "repo": "searchindex",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Search",
+          "description": "Unified API for Elasticsearch, Algolia, and ZendSearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-06-29T20:13:47Z",
+            "owner": "mmanos",
+            "repo": "laravel-search",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algolia Search",
+          "description": "Integrates the Algolia Search API to the Laravel Eloquent ORM",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2018-03-05T13:40:29Z",
+            "owner": "algolia",
+            "repo": "algoliasearch-laravel",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dingo API",
+          "description": "Multi-purpose toolkit for developing RESTful APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-05-19T22:59:52Z",
+            "owner": "dingo",
+            "repo": "api",
+            "stars": 9364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel CORS",
+          "description": "Add CORS (Cross-Origin Resource Sharing) headers support",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-02-16T09:46:34Z",
+            "owner": "fruitcake",
+            "repo": "laravel-cors",
+            "stars": 6236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lighthouse",
+          "description": "An up and coming GraphQL library for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-29T13:04:16Z",
+            "owner": "nuwave",
+            "repo": "lighthouse",
+            "stars": 3502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel GraphQL",
+          "description": "Supports Relay, eloquent models, validation and GraphiQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-01T03:03:15Z",
+            "owner": "rebing",
+            "repo": "graphql-laravel",
+            "stars": 2218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Fractal",
+          "description": "Output complex, flexible, AJAX/RESTful data structures with Fractal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:48:12Z",
+            "owner": "spatie",
+            "repo": "laravel-fractal",
+            "stars": 1910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Responder",
+          "description": "Build custom API responses with Fractal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-03-17T10:07:07Z",
+            "owner": "flugg",
+            "repo": "laravel-responder",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ApiGuard",
+          "description": "Allow API authentication with API keys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-11-18T09:29:23Z",
+            "owner": "chrisbjr",
+            "repo": "api-guard",
+            "stars": 695
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mix",
+          "description": "Fluent API for defining basic webpack build steps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-24T20:48:29Z",
+            "owner": "laravel-mix",
+            "repo": "laravel-mix",
+            "stars": 5220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envoy",
+          "description": "SSH Task Runner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T21:33:58Z",
+            "owner": "laravel",
+            "repo": "envoy",
+            "stars": 1614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elixir",
+          "description": "Node (NPM) package to run Gulp tasks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-30T19:11:15Z",
+            "owner": "laravel",
+            "repo": "elixir",
+            "stars": 1067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dispatcher",
+          "description": "Scheduler for Artisan commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-03-02T17:58:02Z",
+            "owner": "Indatus",
+            "repo": "dispatcher",
+            "stars": 1047
+          }
+        }
+      ],
+      "title": "Tasks, Commands and Scheduling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cashier",
+          "description": "Subscription billing with Stripe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T09:25:09Z",
+            "owner": "laravel",
+            "repo": "cashier-stripe",
+            "stars": 2542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnipay for Laravel",
+          "description": "Integrate the Omnipay PHP library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-22T09:07:08Z",
+            "owner": "ignited",
+            "repo": "laravel-omnipay",
+            "stars": 516
+          }
+        }
+      ],
+      "title": "Payments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Responsecache",
+          "description": "Speed up app by caching the entire response",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T12:05:30Z",
+            "owner": "spatie",
+            "repo": "laravel-responsecache",
+            "stars": 2813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rememberable",
+          "description": "Query caching for Eloquent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-20T10:01:18Z",
+            "owner": "dwightwatson",
+            "repo": "rememberable",
+            "stars": 1126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel HTMLMin",
+          "description": "Blade/HTML/CSS/javascript minifier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-03-07T14:41:01Z",
+            "owner": "HTMLMin",
+            "repo": "Laravel-HTMLMin",
+            "stars": 1022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Widgetize",
+          "description": "Page Partial caching",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-25T21:32:23Z",
+            "owner": "imanghafoori1",
+            "repo": "laravel-widgetize",
+            "stars": 911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intervention Image Cache",
+          "description": "Caching extension for the Intervention Image Class",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-12-09T18:27:48Z",
+            "owner": "Intervention",
+            "repo": "imagecache",
+            "stars": 634
+          }
+        }
+      ],
+      "title": "Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Horizon",
+          "description": "Monitor and configure queues with a simple web UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T14:11:37Z",
+            "owner": "laravel",
+            "repo": "horizon",
+            "stars": 4161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Uptime Monitor",
+          "description": "A powerful and easy to configure uptime and ssl monitor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T12:04:28Z",
+            "owner": "spatie",
+            "repo": "laravel-uptime-monitor",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Failed Job Monitor",
+          "description": "Get notified when a queued job fails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-02T06:35:41Z",
+            "owner": "spatie",
+            "repo": "laravel-failed-job-monitor",
+            "stars": 1049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Larametrics",
+          "description": "A self-hosted metrics and notifications platform for Laravel apps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2023-12-05T01:31:52Z",
+            "owner": "aschmelyun",
+            "repo": "larametrics",
+            "stars": 628
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Language Files",
+          "description": "Validation, Pagination and Reminders language lines in 37 languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T19:44:56Z",
+            "owner": "Laravel-Lang",
+            "repo": "lang",
+            "stars": 7775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Localization",
+          "description": "Add i18n support via routes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-06T21:21:15Z",
+            "owner": "mcamara",
+            "repo": "laravel-localization",
+            "stars": 3561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Translatable",
+          "description": "Making Eloquent models translatable by storing translations as JSON",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:47:50Z",
+            "owner": "spatie",
+            "repo": "laravel-translatable",
+            "stars": 2457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Translatable",
+          "description": "Retrieve and store translatable Eloquent model instances",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-06-18T09:13:26Z",
+            "owner": "dimsav",
+            "repo": "laravel-translatable",
+            "stars": 1931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Date",
+          "description": "A library to help you work with dates in multiple languages, based on Carbon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-04T07:46:11Z",
+            "owner": "jenssegers",
+            "repo": "date",
+            "stars": 1804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Langman",
+          "description": "Manage language files from Artisan Console",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-30T09:13:29Z",
+            "owner": "themsaid",
+            "repo": "laravel-langman",
+            "stars": 873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Translator",
+          "description": "Translate Eloquent models into multiple languages",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-01-21T13:29:43Z",
+            "owner": "vinkla",
+            "repo": "laravel-translator",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linguist",
+          "description": "i18n localization support for Laravel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2019-09-18T10:58:38Z",
+            "owner": "keevitaja",
+            "repo": "linguist",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Translation",
+          "description": "Translation and localization management",
+          "children": []
+        }
+      ],
+      "title": "Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Analytics",
+          "description": "Retrieve pageviews and other data from Google Analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:43:28Z",
+            "owner": "spatie",
+            "repo": "laravel-analytics",
+            "stars": 3240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Newsletter",
+          "description": "Send newsletters with Mailchimp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-26T09:46:05Z",
+            "owner": "spatie",
+            "repo": "laravel-newsletter",
+            "stars": 1642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel GitHub",
+          "description": "PHP GitHub API bridge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-08T23:25:47Z",
+            "owner": "GrahamCampbell",
+            "repo": "Laravel-GitHub",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel DigitalOcean",
+          "description": "DigitalOceanV2 bridge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-08T23:25:08Z",
+            "owner": "GrahamCampbell",
+            "repo": "Laravel-DigitalOcean",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Instagram",
+          "description": "Instagram API bridge",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2023-11-08T18:46:45Z",
+            "owner": "vinkla",
+            "repo": "instagram",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Pusher",
+          "description": "Pusher API bridge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-07-17T09:28:50Z",
+            "owner": "pusher",
+            "repo": "pusher-http-laravel",
+            "stars": 400
+          }
+        }
+      ],
+      "title": "Third-party Service Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LaraDock",
+          "description": "Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-10T23:16:10Z",
+            "owner": "laradock",
+            "repo": "laradock",
+            "stars": 12662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devilbox",
+          "description": "A dockerized and general-purpose LAMP/MEAN stack for every PHP version",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-19T13:46:30Z",
+            "owner": "cytopia",
+            "repo": "devilbox",
+            "stars": 4467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valet Linux",
+          "description": "Development environment for Linux users",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T08:06:27Z",
+            "owner": "cpriego",
+            "repo": "valet-linux",
+            "stars": 1471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaraEdit Docker",
+          "description": "Homestead environment in a single Docker container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-08-05T11:15:50Z",
+            "owner": "laraedit",
+            "repo": "laraedit-docker",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stacker",
+          "description": "The environment for local web development on Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-07-15T05:32:12Z",
+            "owner": "Maxlab",
+            "repo": "stacker",
+            "stars": 360
+          }
+        }
+      ],
+      "title": "Development Setup"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Voyager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-02-07T14:58:08Z",
+            "owner": "thedevdojo",
+            "repo": "voyager",
+            "stars": 11810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Admin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-02T00:31:50Z",
+            "owner": "z-song",
+            "repo": "laravel-admin",
+            "stars": 11146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2025-09-28T05:06:22Z",
+            "owner": "rappasoft",
+            "repo": "laravel-boilerplate",
+            "stars": 5633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T07:04:54Z",
+            "owner": "orchidsoftware",
+            "repo": "platform",
+            "stars": 4788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Zero - Console application",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:24:16Z",
+            "owner": "laravel-zero",
+            "repo": "laravel-zero",
+            "stars": 3987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hello API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-29T05:24:08Z",
+            "owner": "apiato",
+            "repo": "apiato",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apiato",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-29T05:24:08Z",
+            "owner": "apiato",
+            "repo": "apiato",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminLTE Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-10-23T11:58:34Z",
+            "owner": "mdbootstrap",
+            "repo": "adminlte-laravel",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Hackathon Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-14T12:09:30Z",
+            "owner": "unicodeveloper",
+            "repo": "laravel-hackathon-starter",
+            "stars": 1690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Angular Material Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-11-01T16:11:09Z",
+            "owner": "jadjoubran",
+            "repo": "laravel5-angular-material-starter",
+            "stars": 1649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaraAdmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-05T18:48:42Z",
+            "owner": "dwijitsolutions",
+            "repo": "laraadmin",
+            "stars": 1581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel REST API Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-07-10T13:26:42Z",
+            "owner": "francescomalatesta",
+            "repo": "laravel-api-boilerplate-jwt",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Enso",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T22:29:11Z",
+            "owner": "laravel-enso",
+            "repo": "enso",
+            "stars": 1093
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backpack for Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-10-14T12:10:37Z",
+            "owner": "Laravel-Backpack",
+            "repo": "Base",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Adminpanel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-25T15:24:55Z",
+            "owner": "FTXInfotech",
+            "repo": "laravel-adminpanel",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grafite Builder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2020-01-10T03:50:54Z",
+            "owner": "GrafiteInc",
+            "repo": "Builder",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Template with Vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-08-05T01:31:15Z",
+            "owner": "wmhello",
+            "repo": "laravel_template_with_vue",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SomelineStarter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-06-03T08:45:30Z",
+            "owner": "someline",
+            "repo": "someline-starter",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Vue Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-10-27T18:40:03Z",
+            "owner": "alefesouza",
+            "repo": "laravel-vue-boilerplate",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REST API With Lumen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-02-09T15:08:40Z",
+            "owner": "hasib32",
+            "repo": "rest-api-with-lumen",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel API Starter Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Blade",
+            "last_commit": "2023-02-01T19:26:28Z",
+            "owner": "joselfonseca",
+            "repo": "laravel-api",
+            "stars": 423
+          }
+        }
+      ],
+      "title": "Starter Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monica",
+          "description": "Personal relationship management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-24T19:52:26Z",
+            "owner": "monicahq",
+            "repo": "monica",
+            "stars": 25039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koel",
+          "description": "Personal music streaming server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T20:49:05Z",
+            "owner": "koel",
+            "repo": "koel",
+            "stars": 17220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cachet",
+          "description": "Status page system for websites and APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:56:39Z",
+            "owner": "cachethq",
+            "repo": "cachet",
+            "stars": 15214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snipe-IT",
+          "description": "IT asset/license management system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T14:59:05Z",
+            "owner": "grokability",
+            "repo": "snipe-it",
+            "stars": 14809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akaunting",
+          "description": "Accounting software for small businesses and freelancers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T21:49:25Z",
+            "owner": "akaunting",
+            "repo": "akaunting",
+            "stars": 10054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoice Ninja",
+          "description": "Invoicing, expenses, & time-tracking application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T23:30:56Z",
+            "owner": "invoiceninja",
+            "repo": "invoiceninja",
+            "stars": 9992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixelfed",
+          "description": "A free and ethical photo sharing platform, powered by ActivityPub federation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T13:44:55Z",
+            "owner": "pixelfed",
+            "repo": "pixelfed",
+            "stars": 7059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attendize",
+          "description": "Ticket selling and event management platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-20T12:36:09Z",
+            "owner": "Attendize",
+            "repo": "Attendize",
+            "stars": 4266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canvas",
+          "description": "A Laravel Publishing Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T00:48:25Z",
+            "owner": "austintoddj",
+            "repo": "canvas",
+            "stars": 3344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitScrum",
+          "description": "Task management with Git and Scrum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-14T14:10:03Z",
+            "owner": "gitscrum-core",
+            "repo": "laravel-gitscrum",
+            "stars": 2908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel.io",
+          "description": "Source for the Laravel.io Community Portal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T03:02:52Z",
+            "owner": "laravelio",
+            "repo": "laravel.io",
+            "stars": 2496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuedo",
+          "description": "Vuedo is blog platform, built with Laravel and Vue.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-01T14:37:45Z",
+            "owner": "Vuedo",
+            "repo": "vuedo",
+            "stars": 2267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jigsaw",
+          "description": "Static site generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T10:04:12Z",
+            "owner": "tighten",
+            "repo": "jigsaw",
+            "stars": 2251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch",
+          "description": "Examples of using each Illuminate component in non-Laravel applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-01-27T18:07:28Z",
+            "owner": "mattstauffer",
+            "repo": "Torch",
+            "stars": 1869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voten",
+          "description": "A real-time social bookmarking for the 21st century",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-07-28T14:54:47Z",
+            "owner": "voten-co",
+            "repo": "voten",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployer",
+          "description": "Application deployment system",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2021-11-30T09:55:15Z",
+            "owner": "REBELinBLUE",
+            "repo": "deployer",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Screeenly",
+          "description": "Create website screenshots through an API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-21T11:51:44Z",
+            "owner": "stefanzweifel",
+            "repo": "screeenly",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antvel",
+          "description": "Ecommerce platform",
+          "children": []
+        }
+      ],
+      "title": "Codebases for Reference"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoberCMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T22:02:18Z",
+            "owner": "octobercms",
+            "repo": "october",
+            "stars": 11145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T19:50:42Z",
+            "owner": "area17",
+            "repo": "twill",
+            "stars": 3971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microweber",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T09:22:12Z",
+            "owner": "microweber",
+            "repo": "microweber",
+            "stars": 3431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyroCMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-21T19:54:00Z",
+            "owner": "pyrocms",
+            "repo": "pyrocms",
+            "stars": 3176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lavalite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-09-28T16:17:55Z",
+            "owner": "LavaLite",
+            "repo": "cms",
+            "stars": 2892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PJ Blog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-06-08T08:03:30Z",
+            "owner": "jcc",
+            "repo": "blog",
+            "stars": 2856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypiCMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-28T14:42:26Z",
+            "owner": "typicms",
+            "repo": "typicms",
+            "stars": 1617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SleepingOwlAdmin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:11:09Z",
+            "owner": "LaravelRUS",
+            "repo": "SleepingOwlAdmin",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asgard CMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-01-20T08:40:26Z",
+            "owner": "AsgardCms",
+            "repo": "Platform",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coaster CMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2021-04-17T10:09:51Z",
+            "owner": "CoasterCms",
+            "repo": "coastercms",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Borgert CMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-12-08T22:16:55Z",
+            "owner": "borgert-inc",
+            "repo": "borgert-cms",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laralum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2018-10-21T16:18:11Z",
+            "owner": "Laralum",
+            "repo": "Laralum",
+            "stars": 295
+          }
+        }
+      ],
+      "title": "Content Management Systems"
+    },
+    {
+      "description": "Found an awesome package, blog, course or video? Send me a pull request!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Awesome Laravel is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:52:21.272Z",
+    "original_repository": "chiraggude/awesome-laravel",
+    "original_repository_sha": "0374093f529ba54bfd201c4c52b40a88e45ab1ae",
+    "enhanced_repository": "enhansome/enhansome-laravel",
+    "enhanced_repository_description": null,
+    "title": "Awesome Laravel with stars"
+  }
+}
