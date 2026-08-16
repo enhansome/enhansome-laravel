@@ -19,7 +19,7 @@
             "last_commit": "2026-08-04T12:28:01Z",
             "owner": "barryvdh",
             "repo": "laravel-ide-helper",
-            "stars": 14952
+            "stars": 14951
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-05-07T11:06:38Z",
             "owner": "InfyOmLabs",
             "repo": "laravel-generator",
-            "stars": 3826
+            "stars": 3825
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-08-11T12:51:21Z",
             "owner": "fruitcake",
             "repo": "laravel-debugbar",
-            "stars": 19276
+            "stars": 19277
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-11T14:15:41Z",
             "owner": "laravel",
             "repo": "telescope",
-            "stars": 5211
+            "stars": 5212
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2024-07-25T13:12:34Z",
             "owner": "ARCANEDEV",
             "repo": "LogViewer",
-            "stars": 2390
+            "stars": 2389
           }
         },
         {
@@ -367,7 +367,7 @@
             "last_commit": "2026-07-03T21:33:47Z",
             "owner": "spatie",
             "repo": "laravel-permission",
-            "stars": 12957
+            "stars": 12958
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-03-06T10:37:13Z",
             "owner": "tymondesigns",
             "repo": "jwt-auth",
-            "stars": 11493
+            "stars": 11494
           }
         },
         {
@@ -462,7 +462,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-05-27T21:44:12Z",
+            "last_commit": "2026-08-15T13:28:10Z",
             "owner": "antonioribeiro",
             "repo": "google2fa",
             "stars": 2006
@@ -569,7 +569,7 @@
             "last_commit": "2026-04-13T09:11:55Z",
             "owner": "nWidart",
             "repo": "laravel-modules",
-            "stars": 6192
+            "stars": 6191
           }
         },
         {
@@ -583,7 +583,7 @@
             "last_commit": "2026-08-12T12:08:09Z",
             "owner": "spatie",
             "repo": "laravel-activitylog",
-            "stars": 5883
+            "stars": 5885
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-14T03:20:51Z",
             "owner": "yajra",
             "repo": "laravel-datatables",
-            "stars": 4866
+            "stars": 4867
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-03-28T12:40:38Z",
             "owner": "artesaos",
             "repo": "seotools",
-            "stars": 3363
+            "stars": 3362
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2026-05-26T09:31:35Z",
             "owner": "Propaganistas",
             "repo": "Laravel-Phone",
-            "stars": 3022
+            "stars": 3024
           }
         },
         {
@@ -695,7 +695,7 @@
             "last_commit": "2024-01-19T08:11:37Z",
             "owner": "antonioribeiro",
             "repo": "tracker",
-            "stars": 2931
+            "stars": 2932
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-03-18T03:25:54Z",
             "owner": "cmgmyr",
             "repo": "laravel-messenger",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -1270,7 +1270,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T06:26:42Z",
+            "last_commit": "2026-08-15T13:44:49Z",
             "owner": "SpartnerNL",
             "repo": "Laravel-Excel",
             "stars": 12698
@@ -1537,7 +1537,7 @@
             "last_commit": "2026-08-07T11:21:13Z",
             "owner": "spatie",
             "repo": "laravel-backup",
-            "stars": 6018
+            "stars": 6019
           }
         },
         {
@@ -1663,7 +1663,7 @@
             "last_commit": "2021-02-03T11:42:01Z",
             "owner": "backup-manager",
             "repo": "laravel",
-            "stars": 655
+            "stars": 656
           }
         },
         {
@@ -1927,7 +1927,7 @@
             "last_commit": "2026-06-26T09:48:12Z",
             "owner": "spatie",
             "repo": "laravel-fractal",
-            "stars": 1910
+            "stars": 1909
           }
         },
         {
@@ -2209,7 +2209,7 @@
             "last_commit": "2026-08-11T19:44:56Z",
             "owner": "Laravel-Lang",
             "repo": "lang",
-            "stars": 7775
+            "stars": 7776
           }
         },
         {
@@ -2361,7 +2361,7 @@
             "last_commit": "2026-05-08T23:25:47Z",
             "owner": "GrahamCampbell",
             "repo": "Laravel-GitHub",
-            "stars": 648
+            "stars": 647
           }
         },
         {
@@ -2423,7 +2423,7 @@
             "last_commit": "2026-08-10T23:16:10Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12662
+            "stars": 12663
           }
         },
         {
@@ -2451,7 +2451,7 @@
             "last_commit": "2026-08-11T08:06:27Z",
             "owner": "cpriego",
             "repo": "valet-linux",
-            "stars": 1471
+            "stars": 1470
           }
         },
         {
@@ -2513,7 +2513,7 @@
             "last_commit": "2026-05-02T00:31:50Z",
             "owner": "z-song",
             "repo": "laravel-admin",
-            "stars": 11146
+            "stars": 11147
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2026-08-14T15:01:41Z",
             "owner": "orchidsoftware",
             "repo": "platform",
-            "stars": 4788
+            "stars": 4789
           }
         },
         {
@@ -2555,7 +2555,7 @@
             "last_commit": "2026-08-12T12:24:16Z",
             "owner": "laravel-zero",
             "repo": "laravel-zero",
-            "stars": 3987
+            "stars": 3988
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2025-10-23T11:58:34Z",
             "owner": "mdbootstrap",
             "repo": "adminlte-laravel",
-            "stars": 1799
+            "stars": 1798
           }
         },
         {
@@ -2799,7 +2799,7 @@
             "last_commit": "2026-04-24T19:52:26Z",
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25044
+            "stars": 25046
           }
         },
         {
@@ -2813,7 +2813,7 @@
             "last_commit": "2026-08-10T20:49:05Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17221
+            "stars": 17222
           }
         },
         {
@@ -2827,7 +2827,7 @@
             "last_commit": "2026-08-11T18:56:39Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15215
+            "stars": 15216
           }
         },
         {
@@ -2838,10 +2838,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T18:06:41Z",
+            "last_commit": "2026-08-15T09:48:27Z",
             "owner": "grokability",
             "repo": "snipe-it",
-            "stars": 14815
+            "stars": 14819
           }
         },
         {
@@ -2855,7 +2855,7 @@
             "last_commit": "2026-08-13T21:49:25Z",
             "owner": "akaunting",
             "repo": "akaunting",
-            "stars": 10057
+            "stars": 10060
           }
         },
         {
@@ -2866,10 +2866,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T23:30:56Z",
+            "last_commit": "2026-08-15T06:51:17Z",
             "owner": "invoiceninja",
             "repo": "invoiceninja",
-            "stars": 9994
+            "stars": 9996
           }
         },
         {
@@ -2883,7 +2883,7 @@
             "last_commit": "2026-08-14T05:15:14Z",
             "owner": "pixelfed",
             "repo": "pixelfed",
-            "stars": 7060
+            "stars": 7063
           }
         },
         {
@@ -2908,10 +2908,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T00:48:25Z",
+            "last_commit": "2026-08-15T03:22:33Z",
             "owner": "austintoddj",
             "repo": "canvas",
-            "stars": 3344
+            "stars": 3345
           }
         },
         {
@@ -2953,7 +2953,7 @@
             "last_commit": "2020-10-01T14:37:45Z",
             "owner": "Vuedo",
             "repo": "vuedo",
-            "stars": 2267
+            "stars": 2268
           }
         },
         {
@@ -3046,7 +3046,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T22:02:18Z",
+            "last_commit": "2026-08-15T04:51:26Z",
             "owner": "octobercms",
             "repo": "october",
             "stars": 11145
@@ -3077,7 +3077,7 @@
             "last_commit": "2026-08-12T09:22:12Z",
             "owner": "microweber",
             "repo": "microweber",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -3133,7 +3133,7 @@
             "last_commit": "2026-07-28T14:42:26Z",
             "owner": "typicms",
             "repo": "typicms",
-            "stars": 1615
+            "stars": 1614
           }
         },
         {
@@ -3221,7 +3221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:40:36.971Z",
+    "last_updated": "2026-08-16T02:48:32.386Z",
     "original_repository": "chiraggude/awesome-laravel",
     "original_repository_sha": "0374093f529ba54bfd201c4c52b40a88e45ab1ae",
     "enhanced_repository": "enhansome/enhansome-laravel",
