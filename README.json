@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-08-24T13:25:53Z",
                 "owner": "Intervention",
                 "repo": "image",
-                "stars": 14365
+                "stars": 14366
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "last_commit": "2026-08-24T13:08:11Z",
                 "owner": "SpartnerNL",
                 "repo": "Laravel-Excel",
-                "stars": 12705
+                "stars": 12704
               }
             },
             {
@@ -2023,7 +2023,7 @@
                 "last_commit": "2026-07-29T13:04:16Z",
                 "owner": "nuwave",
                 "repo": "lighthouse",
-                "stars": 3502
+                "stars": 3501
               }
             },
             {
@@ -2724,7 +2724,7 @@
             "last_commit": "2026-05-02T00:31:50Z",
             "owner": "z-song",
             "repo": "laravel-admin",
-            "stars": 11143
+            "stars": 11142
           }
         },
         {
@@ -3030,7 +3030,7 @@
             "last_commit": "2026-04-24T19:52:26Z",
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25100
+            "stars": 25101
           }
         },
         {
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-08-22T13:35:45Z",
             "owner": "koel",
             "repo": "koel",
-            "stars": 17229
+            "stars": 17230
           }
         },
         {
@@ -3060,7 +3060,7 @@
             "last_commit": "2026-08-24T07:09:48Z",
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15227
+            "stars": 15228
           }
         },
         {
@@ -3117,7 +3117,7 @@
             "archived": false,
             "id": 129829848,
             "language": "PHP",
-            "last_commit": "2026-08-25T02:43:28Z",
+            "last_commit": "2026-08-25T04:59:02Z",
             "owner": "pixelfed",
             "repo": "pixelfed",
             "stars": 7074
@@ -3464,7 +3464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:47:13.844Z",
+    "last_updated": "2026-08-25T05:45:57.697Z",
     "original_repository": "chiraggude/awesome-laravel",
     "original_repository_id": 22417801,
     "original_repository_sha": "0374093f529ba54bfd201c4c52b40a88e45ab1ae",
