@@ -216,7 +216,7 @@
                 "archived": false,
                 "id": 145865941,
                 "language": "PHP",
-                "last_commit": "2026-08-27T01:31:32Z",
+                "last_commit": "2026-08-27T12:11:36Z",
                 "owner": "laravel",
                 "repo": "telescope",
                 "stars": 5218
@@ -2169,7 +2169,7 @@
                 "archived": false,
                 "id": 17388759,
                 "language": "PHP",
-                "last_commit": "2026-08-27T01:42:05Z",
+                "last_commit": "2026-08-27T12:11:05Z",
                 "owner": "laravel",
                 "repo": "cashier-stripe",
                 "stars": 2543
@@ -3117,7 +3117,7 @@
             "archived": false,
             "id": 129829848,
             "language": "PHP",
-            "last_commit": "2026-08-27T11:49:28Z",
+            "last_commit": "2026-08-27T12:09:18Z",
             "owner": "pixelfed",
             "repo": "pixelfed",
             "stars": 7072
@@ -3464,7 +3464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:59.375Z",
+    "last_updated": "2026-08-27T12:15:19.306Z",
     "original_repository_info": {
       "archived": false,
       "id": 22417801,

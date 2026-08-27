@@ -63,7 +63,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 * [Debug Bar](https://github.com/barryvdh/laravel-debugbar) ⭐ 19,280 | 🐛 74 | 🌐 PHP | 📅 2026-08-24 - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) ⭐ 5,945 | 🐛 38 | 🌐 PHP | 📅 2026-08-10 - Integrates Clockwork Chrome extension for debugging and profiling apps
-* [Laravel Telescope](https://github.com/laravel/telescope) ⭐ 5,218 | 🐛 19 | 🌐 PHP | 📅 2026-08-27 - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel Telescope](https://github.com/laravel/telescope) ⭐ 5,218 | 🐛 16 | 🌐 PHP | 📅 2026-08-27 - Laravel Telescope is an elegant debug assistant for the Laravel framework
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) ⭐ 3,193 | 🐛 42 | 🌐 PHP | 📅 2026-05-12 - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) ⭐ 2,390 | 🐛 21 | 🌐 PHP | 📅 2024-07-25 - Provides a log viewer
 * [Ignition](https://github.com/facade/ignition) ⭐ 2,078 | 🐛 5 | 🌐 PHP | 📅 2023-02-16 - A beautiful error page for Laravel apps
@@ -221,7 +221,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Payments
 
-* [Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 16 | 🌐 PHP | 📅 2026-08-27 - Subscription billing with Stripe
+* [Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 15 | 🌐 PHP | 📅 2026-08-27 - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) ⭐ 516 | 🐛 0 | 🌐 PHP | 📅 2026-04-22 - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) ⭐ 6,056 | 🐛 109 | 🌐 PHP | 📅 2026-07-10 PHP library
 
 ##### Optimization
@@ -439,7 +439,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 * [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 14,877 | 🐛 957 | 🌐 PHP | 📅 2026-08-26 - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,094 | 🐛 9 | 🌐 PHP | 📅 2026-08-26 - Accounting software for small businesses and freelancers
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,030 | 🐛 927 | 🌐 PHP | 📅 2026-08-25 - Invoicing, expenses, & time-tracking application
-* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,072 | 🐛 91 | 🌐 PHP | 📅 2026-08-27 - A free and ethical photo sharing platform, powered by ActivityPub federation
+* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,072 | 🐛 92 | 🌐 PHP | 📅 2026-08-27 - A free and ethical photo sharing platform, powered by ActivityPub federation
 * [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,270 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Ticket selling and event management platform
 * [Canvas](https://github.com/cnvs/canvas) ⭐ 3,344 | 🐛 7 | 🌐 PHP | 📅 2026-08-22 - A Laravel Publishing Platform
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) ⭐ 2,907 | 🐛 63 | 🌐 PHP | 📅 2025-05-14 - Task management with Git and Scrum
