@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13
 
 ## Table of Contents
 
@@ -96,10 +96,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 ##### Utilities
 
 * [Laravel Proxy](https://github.com/fideloper/TrustedProxy) ⭐ 7,308 | 🐛 6 | 🌐 PHP | 📅 2024-01-09 - Handling sessions when behind load balancers or other intermediaries.
-* [Laravel Modules](https://github.com/nWidart/laravel-modules) ⭐ 6,203 | 🐛 24 | 🌐 PHP | 📅 2026-04-13 - Easy module management
-* [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) ⭐ 5,892 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 - Log activity inside your Laravel app
+* [Laravel Modules](https://github.com/nWidart/laravel-modules) ⭐ 6,202 | 🐛 24 | 🌐 PHP | 📅 2026-04-13 - Easy module management
+* [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) ⭐ 5,893 | 🐛 0 | 🌐 PHP | 📅 2026-08-12 - Log activity inside your Laravel app
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) ⭐ 4,867 | 🐛 38 | 🌐 PHP | 📅 2026-08-26 - jQuery DataTables API
-* [stancl/tenancy](https://github.com/stancl/tenancy) ⭐ 4,398 | 🐛 9 | 🌐 PHP | 📅 2026-08-28 - Automatic tenancy for your Laravel app. No code changes needed.
+* [stancl/tenancy](https://github.com/stancl/tenancy) ⭐ 4,399 | 🐛 9 | 🌐 PHP | 📅 2026-08-28 - Automatic tenancy for your Laravel app. No code changes needed.
 * [HTML](https://github.com/LaravelCollective/html) ⭐ 4,083 | 🐛 198 | 🌐 PHP | 📅 2024-07-16 - HTML and Form Builders for Laravel
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) ⭐ 3,998 | 🐛 0 | 🌐 PHP | 📅 2026-07-20 - Create slugs for Eloquent models
 * [Laravel Auditing](https://github.com/owen-it/laravel-auditing) ⭐ 3,459 | 🐛 13 | 🌐 PHP | 📅 2026-07-17 - Audit for Eloquent models
@@ -150,10 +150,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Media & Document Management
 
-* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,367 | 🐛 22 | 🌐 PHP | 📅 2026-08-28 - Image handling library for creating, editing and composing images
+* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,367 | 🐛 22 | 🌐 PHP | 📅 2026-08-29 - Image handling library for creating, editing and composing images
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) ⭐ 12,705 | 🐛 0 | 🌐 PHP | 📅 2026-08-24 - Import and export Excel and CSV files
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) ⭐ 7,285 | 🐛 99 | 🌐 PHP | 📅 2026-07-09 - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf) ⭐ 11,178 | 🐛 539 | 🌐 PHP | 📅 2026-08-02
-* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) ⭐ 6,160 | 🐛 2 | 🌐 PHP | 📅 2026-08-10 - Associate files with Eloquent models
+* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) ⭐ 6,161 | 🐛 2 | 🌐 PHP | 📅 2026-08-10 - Associate files with Eloquent models
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) ⭐ 2,754 | 🐛 50 | 🌐 PHP | 📅 2026-08-21 - HTML to PDF generator using wkhtmltopdf
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) ⭐ 2,321 | 🐛 10 | 🌐 PHP | 📅 2026-08-16 - Fast XLSX, CSV and ODT import and export for Laravel
 * [Laravolt Avatar](https://github.com/laravolt/avatar) ⭐ 1,982 | 🐛 1 | 🌐 PHP | 📅 2026-08-06 - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
@@ -433,13 +433,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Codebases for Reference
 
-* [Monica](https://github.com/monicahq/monica) ⭐ 25,130 | 🐛 794 | 🌐 PHP | 📅 2026-04-24 - Personal relationship management system
-* [Koel](https://github.com/phanan/koel) ⭐ 17,237 | 🐛 15 | 🌐 PHP | 📅 2026-08-22 - Personal music streaming server
+* [Monica](https://github.com/monicahq/monica) ⭐ 25,131 | 🐛 794 | 🌐 PHP | 📅 2026-04-24 - Personal relationship management system
+* [Koel](https://github.com/phanan/koel) ⭐ 17,239 | 🐛 15 | 🌐 PHP | 📅 2026-08-22 - Personal music streaming server
 * [Cachet](https://github.com/cachethq/Cachet) ⭐ 15,229 | 🐛 6 | 🌐 PHP | 📅 2026-08-24 - Status page system for websites and APIs
 * [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 14,886 | 🐛 921 | 🌐 PHP | 📅 2026-08-29 - IT asset/license management system
-* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,100 | 🐛 9 | 🌐 PHP | 📅 2026-08-26 - Accounting software for small businesses and freelancers
+* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,100 | 🐛 9 | 🌐 PHP | 📅 2026-08-29 - Accounting software for small businesses and freelancers
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,034 | 🐛 926 | 🌐 PHP | 📅 2026-08-27 - Invoicing, expenses, & time-tracking application
-* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,073 | 🐛 89 | 🌐 PHP | 📅 2026-08-29 - A free and ethical photo sharing platform, powered by ActivityPub federation
+* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,073 | 🐛 90 | 🌐 PHP | 📅 2026-08-29 - A free and ethical photo sharing platform, powered by ActivityPub federation
 * [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,270 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Ticket selling and event management platform
 * [Canvas](https://github.com/cnvs/canvas) ⭐ 3,345 | 🐛 7 | 🌐 PHP | 📅 2026-08-22 - A Laravel Publishing Platform
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) ⭐ 2,908 | 🐛 63 | 🌐 PHP | 📅 2025-05-14 - Task management with Git and Scrum

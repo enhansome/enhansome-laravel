@@ -1067,7 +1067,7 @@
                 "open_issues": 24,
                 "owner": "nWidart",
                 "repo": "laravel-modules",
-                "stars": 6203,
+                "stars": 6202,
                 "topics": [
                   "architecture",
                   "hacktoberfest",
@@ -1094,7 +1094,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-activitylog",
-                "stars": 5892,
+                "stars": 5893,
                 "topics": [
                   "audit",
                   "laravel",
@@ -1150,7 +1150,7 @@
                 "open_issues": 9,
                 "owner": "archtechx",
                 "repo": "tenancy",
-                "stars": 4398,
+                "stars": 4399,
                 "topics": [
                   "laravel",
                   "multi-tenancy",
@@ -2384,7 +2384,7 @@
                 "id": 7704544,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:01:59Z",
+                "last_commit": "2026-08-29T05:35:38Z",
                 "open_issues": 22,
                 "owner": "Intervention",
                 "repo": "image",
@@ -2469,7 +2469,7 @@
                 "open_issues": 2,
                 "owner": "spatie",
                 "repo": "laravel-medialibrary",
-                "stars": 6160,
+                "stars": 6161,
                 "topics": [
                   "eloquent",
                   "hacktoberfest",
@@ -5348,7 +5348,7 @@
             "open_issues": 794,
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25130,
+            "stars": 25131,
             "topics": [
               "crm",
               "family",
@@ -5378,7 +5378,7 @@
             "open_issues": 15,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17237,
+            "stars": 17239,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -5459,7 +5459,7 @@
             "id": 95011974,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T10:38:09Z",
+            "last_commit": "2026-08-29T07:57:33Z",
             "open_issues": 9,
             "owner": "akaunting",
             "repo": "akaunting",
@@ -5538,8 +5538,8 @@
             "id": 129829848,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T03:34:56Z",
-            "open_issues": 89,
+            "last_commit": "2026-08-29T08:13:23Z",
+            "open_issues": 90,
             "owner": "pixelfed",
             "repo": "pixelfed",
             "stars": 7073,
@@ -6209,7 +6209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:28.557Z",
+    "last_updated": "2026-08-29T08:19:40.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
