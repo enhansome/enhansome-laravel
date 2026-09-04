@@ -2,7 +2,7 @@
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,676 | 🐛 85 | 📅 2026-07-13
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,674 | 🐛 85 | 📅 2026-07-13
 
 ## Table of Contents
 
@@ -61,9 +61,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Testing & Debugging
 
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) ⭐ 19,277 | 🐛 74 | 🌐 PHP | 📅 2026-09-01 - Integrates PHP Debug Bar with Laravel
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) ⭐ 19,277 | 🐛 75 | 🌐 PHP | 📅 2026-09-03 - Integrates PHP Debug Bar with Laravel
 * [Clockwork](https://github.com/itsgoingd/clockwork) ⭐ 5,948 | 🐛 39 | 🌐 PHP | 📅 2026-08-29 - Integrates Clockwork Chrome extension for debugging and profiling apps
-* [Laravel Telescope](https://github.com/laravel/telescope) ⭐ 5,221 | 🐛 16 | 🌐 PHP | 📅 2026-09-01 - Laravel Telescope is an elegant debug assistant for the Laravel framework
+* [Laravel Telescope](https://github.com/laravel/telescope) ⭐ 5,222 | 🐛 16 | 🌐 PHP | 📅 2026-09-01 - Laravel Telescope is an elegant debug assistant for the Laravel framework
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) ⭐ 3,194 | 🐛 42 | 🌐 PHP | 📅 2026-05-12 - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) ⭐ 2,392 | 🐛 21 | 🌐 PHP | 📅 2024-07-25 - Provides a log viewer
 * [Ignition](https://github.com/facade/ignition) ⭐ 2,078 | 🐛 5 | 🌐 PHP | 📅 2023-02-16 - A beautiful error page for Laravel apps
@@ -78,10 +78,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Authentication & Authorization
 
-* [Laravel Permission](https://github.com/spatie/laravel-permission) ⭐ 12,962 | 🐛 6 | 🌐 PHP | 📅 2026-08-24 - Associate users with roles and permissions
+* [Laravel Permission](https://github.com/spatie/laravel-permission) ⭐ 12,963 | 🐛 6 | 🌐 PHP | 📅 2026-08-24 - Associate users with roles and permissions
 * [JWT Auth](https://github.com/tymondesigns/jwt-auth) ⭐ 11,495 | 🐛 614 | 🌐 PHP | 📅 2026-03-06 - JSON Web Token authentication for APIs
 * [Entrust](https://github.com/Zizaco/entrust) ⭐ 6,004 | 🐛 424 | 🌐 PHP | 📅 2025-01-08 - Role-based Permissions
-* [Socialite](https://github.com/laravel/socialite) ⭐ 5,746 | 🐛 3 | 🌐 PHP | 📅 2026-09-01 - OAuth authentication with Facebook, Google, Twitter etc.
+* [Socialite](https://github.com/laravel/socialite) ⭐ 5,747 | 🐛 3 | 🌐 PHP | 📅 2026-09-01 - OAuth authentication with Facebook, Google, Twitter etc.
 * [Bouncer](https://github.com/JosephSilber/bouncer) ⭐ 3,580 | 🐛 53 | 🌐 PHP | 📅 2026-03-18 - Roles & Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) ⭐ 2,347 | 🐛 11 | 🌐 PHP | 📅 2023-08-18 - OAuth 2.0 authorization server and resource server
 * [Laratrust](https://github.com/santigarcor/laratrust) ⭐ 2,274 | 🐛 13 | 🌐 PHP | 📅 2026-03-06 - Roles, Permissions and teams
@@ -112,7 +112,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) ⭐ 2,574 | 🐛 3 | 🌐 PHP | 📅 2026-03-18 - User messaging system
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) ⭐ 2,340 | 🐛 83 | 🌐 PHP | 📅 2026-03-17 - A package to authenticate as one of your users
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) ⭐ 2,230 | 🐛 81 | 🌐 PHP | 📅 2026-04-10 - Determine the location of website visitors based on their IP addresses
-* [Laravel Hashids](https://github.com/vinkla/laravel-hashids) ⭐ 2,057 | 🐛 0 | 🌐 PHP | 📅 2026-03-22 - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
+* [Laravel Hashids](https://github.com/vinkla/laravel-hashids) ⭐ 2,056 | 🐛 0 | 🌐 PHP | 📅 2026-03-22 - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
 * [Purifier](https://github.com/mewebstudio/purifier) ⭐ 1,979 | 🐛 78 | 🌐 PHP | 📅 2026-06-08 - HTML filter
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) ⚠️ Archived - Allow users to install your application just by following the setup wizard, like WordPress
 * [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) ⭐ 1,910 | 🐛 0 | 🌐 PHP | 📅 2026-02-20 - A set of handy collection macros
@@ -130,7 +130,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 * [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) ⭐ 1,132 | 🐛 31 | 🌐 PHP | 📅 2026-03-20 - A package to handle incoming emails
 * [Laravel Ban](https://github.com/cybercog/laravel-ban) ⭐ 1,126 | 🐛 16 | 🌐 PHP | 📅 2026-03-01 - Simplify blocking and banning Eloquent models
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) ⭐ 1,113 | 🐛 3 | 🌐 PHP | 📅 2026-02-24 - A powerful alternative to view composers.
-* [Teamwork](https://github.com/mpociot/teamwork) ⭐ 1,098 | 🐛 6 | 🌐 PHP | 📅 2025-05-21 - User to team associations with an invite system
+* [Teamwork](https://github.com/mpociot/teamwork) ⭐ 1,098 | 🐛 4 | 🌐 PHP | 📅 2026-09-03 - User to team associations with an invite system
 * [Laravel Menu](https://github.com/spatie/laravel-menu) ⭐ 983 | 🐛 0 | 🌐 PHP | 📅 2026-06-02 - Html menu generator for Laravel
 * [Validating](https://github.com/dwightwatson/validating) ⭐ 973 | 🐛 14 | 🌐 PHP | 📅 2026-04-22 - Trait for validating Eloquent models
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) ⭐ 930 | 🐛 14 | 🌐 PHP | 📅 2026-03-11 - Persistent configuration settings that are stored in JSON files
@@ -150,10 +150,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Media & Document Management
 
-* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,364 | 🐛 22 | 🌐 PHP | 📅 2026-08-29 - Image handling library for creating, editing and composing images
+* [Intervention Image](https://github.com/Intervention/image) ⭐ 14,366 | 🐛 22 | 🌐 PHP | 📅 2026-08-29 - Image handling library for creating, editing and composing images
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) ⭐ 12,704 | 🐛 1 | 🌐 PHP | 📅 2026-08-24 - Import and export Excel and CSV files
-* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) ⭐ 7,286 | 🐛 99 | 🌐 PHP | 📅 2026-07-09 - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf) ⭐ 11,182 | 🐛 540 | 🌐 PHP | 📅 2026-08-02
-* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) ⭐ 6,162 | 🐛 2 | 🌐 PHP | 📅 2026-09-01 - Associate files with Eloquent models
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) ⭐ 7,285 | 🐛 99 | 🌐 PHP | 📅 2026-07-09 - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf) ⭐ 11,183 | 🐛 541 | 🌐 PHP | 📅 2026-08-02
+* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) ⭐ 6,162 | 🐛 1 | 🌐 PHP | 📅 2026-09-03 - Associate files with Eloquent models
 * [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) ⭐ 2,755 | 🐛 50 | 🌐 PHP | 📅 2026-08-21 - HTML to PDF generator using wkhtmltopdf
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) ⭐ 2,322 | 🐛 6 | 🌐 PHP | 📅 2026-09-01 - Fast XLSX, CSV and ODT import and export for Laravel
 * [Laravolt Avatar](https://github.com/laravolt/avatar) ⭐ 1,982 | 🐛 1 | 🌐 PHP | 📅 2026-08-06 - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
@@ -164,7 +164,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Integration with Javascript
 
-* [LiveWire](https://github.com/livewire/livewire) ⭐ 23,568 | 🐛 15 | 🌐 PHP | 📅 2026-09-01 - A magical front-end framework for Laravel
+* [LiveWire](https://github.com/livewire/livewire) ⭐ 23,567 | 🐛 12 | 🌐 PHP | 📅 2026-09-03 - A magical front-end framework for Laravel
 * [Ziggy](https://github.com/tightenco/ziggy) ⭐ 4,316 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-18 - Use your Laravel named routes in JavaScript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) ⭐ 2,201 | 🐛 24 | 🌐 PHP | 📅 2026-02-24 - Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) ⭐ 1,140 | 🐛 26 | 🌐 PHP | 📅 2026-05-22 - Use validation rules, messages, FormRequest and validators to validate forms in client-side
@@ -174,8 +174,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Databases, ORMs, Migrations & Seeding
 
-* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) ⭐ 7,069 | 🐛 46 | 🌐 PHP | 📅 2026-09-02 - Eloquent model and query builder with support for MongoDB
-* [Laravel Backup](https://github.com/spatie/laravel-backup) ⭐ 6,020 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 - Backup your app
+* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) ⭐ 7,069 | 🐛 46 | 🌐 PHP | 📅 2026-09-03 - Eloquent model and query builder with support for MongoDB
+* [Laravel Backup](https://github.com/spatie/laravel-backup) ⭐ 6,022 | 🐛 0 | 🌐 PHP | 📅 2026-08-20 - Backup your app
 * [Laravel Repository](https://github.com/andersao/l5-repository) ⭐ 4,198 | 🐛 261 | 🌐 PHP | 📅 2026-05-27 - Repositories to abstract the database layer
 * [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) ⭐ 3,803 | 🐛 218 | 🌐 PHP | 📅 2026-04-11 - Nested Sets pattern implementation
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) ⭐ 3,320 | 🐛 81 | 🌐 PHP | 📅 2023-02-17 - Generate migrations from an existing database
@@ -204,9 +204,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### APIs
 
-* [Dingo API](https://github.com/dingo/api) ⭐ 9,369 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - Multi-purpose toolkit for developing RESTful APIs
+* [Dingo API](https://github.com/dingo/api) ⭐ 9,370 | 🐛 189 | 🌐 PHP | 📅 2022-05-19 - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) ⚠️ Archived - Add CORS (Cross-Origin Resource Sharing) headers support
-* [Lighthouse](https://github.com/nuwave/lighthouse) ⭐ 3,500 | 🐛 136 | 🌐 PHP | 📅 2026-09-02 - An up and coming GraphQL library for Laravel
+* [Lighthouse](https://github.com/nuwave/lighthouse) ⭐ 3,500 | 🐛 137 | 🌐 PHP | 📅 2026-09-02 - An up and coming GraphQL library for Laravel
 * [Laravel GraphQL](https://github.com/rebing/graphql-laravel) ⭐ 2,222 | 🐛 1 | 🌐 PHP | 📅 2026-08-17 - Supports Relay, eloquent models, validation and GraphiQL
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) ⭐ 1,909 | 🐛 0 | 🌐 PHP | 📅 2026-06-26 - Output complex, flexible, AJAX/RESTful data structures with Fractal
 * [Laravel Responder](https://github.com/flugger/laravel-responder) ⭐ 888 | 🐛 41 | 🌐 PHP | 📅 2025-03-17 - Build custom API responses with Fractal
@@ -222,7 +222,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 ##### Payments
 
 * [Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 15 | 🌐 PHP | 📅 2026-09-01 - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) ⭐ 516 | 🐛 0 | 🌐 PHP | 📅 2026-04-22 - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) ⭐ 6,058 | 🐛 110 | 🌐 PHP | 📅 2026-07-10 PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) ⭐ 515 | 🐛 0 | 🌐 PHP | 📅 2026-04-22 - Integrate the [Omnipay](https://github.com/thephpleague/omnipay) ⭐ 6,058 | 🐛 110 | 🌐 PHP | 📅 2026-07-10 PHP library
 
 ##### Optimization
 
@@ -234,15 +234,15 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ##### Monitoring
 
-* [Horizon](https://github.com/laravel/horizon) ⭐ 4,165 | 🐛 17 | 🌐 PHP | 📅 2026-08-23 - Monitor and configure queues with a simple web UI
+* [Horizon](https://github.com/laravel/horizon) ⭐ 4,166 | 🐛 17 | 🌐 PHP | 📅 2026-08-23 - Monitor and configure queues with a simple web UI
 * [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) ⭐ 1,069 | 🐛 2 | 🌐 PHP | 📅 2026-08-07 - A powerful and easy to configure uptime and ssl monitor
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) ⭐ 1,051 | 🐛 0 | 🌐 PHP | 📅 2026-06-02 - Get notified when a queued job fails
 * [Larametrics](https://github.com/aschmelyun/larametrics) ⚠️ Archived - A self-hosted metrics and notifications platform for Laravel apps
 
 ##### Localization
 
-* [Language Files](https://github.com/caouecs/Laravel-lang) ⭐ 7,774 | 🐛 1 | 🌐 PHP | 📅 2026-09-03 - Validation, Pagination and Reminders language lines in 37 languages
-* [Laravel Localization](https://github.com/mcamara/laravel-localization) ⭐ 3,558 | 🐛 11 | 🌐 PHP | 📅 2026-08-24 - Add i18n support via routes
+* [Language Files](https://github.com/caouecs/Laravel-lang) ⭐ 7,774 | 🐛 0 | 🌐 PHP | 📅 2026-09-03 - Validation, Pagination and Reminders language lines in 37 languages
+* [Laravel Localization](https://github.com/mcamara/laravel-localization) ⭐ 3,557 | 🐛 11 | 🌐 PHP | 📅 2026-08-24 - Add i18n support via routes
 * [Laravel Translatable](https://github.com/spatie/laravel-translatable) ⭐ 2,460 | 🐛 0 | 🌐 PHP | 📅 2026-06-26 - Making Eloquent models translatable by storing translations as JSON
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) ⚠️ Archived - Retrieve and store translatable Eloquent model instances
 * [Laravel Date](https://github.com/jenssegers/date) ⭐ 1,802 | 🐛 9 | 🌐 PHP | 📅 2023-12-04 - A library to help you work with dates in multiple languages, based on Carbon
@@ -262,9 +262,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Development Setup
 
-* [LaraDock](https://github.com/LaraDock/laradock) ⭐ 12,670 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-03 - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
+* [LaraDock](https://github.com/LaraDock/laradock) ⭐ 12,671 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-03 - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
 * [Devilbox](https://github.com/cytopia/devilbox) ⭐ 4,469 | 🐛 90 | 🌐 PHP | 📅 2024-04-19 - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
-* [Valet Linux](https://github.com/cpriego/valet-linux) ⭐ 1,469 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - Development environment for Linux users
+* [Valet Linux](https://github.com/cpriego/valet-linux) ⭐ 1,468 | 🐛 0 | 🌐 PHP | 📅 2026-08-11 - Development environment for Linux users
 * [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) ⭐ 445 | 🐛 18 | 🌐 Shell | 📅 2020-08-05 - Homestead environment in a single Docker container
 * [Stacker](https://github.com/Maxlab/stacker) ⭐ 360 | 🐛 3 | 🌐 Shell | 📅 2018-07-15 - The environment for local web development on Docker
 * [Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant box for Laravel
@@ -298,7 +298,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Tutorials & Blogs
 
-* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) ⭐ 12,321 | 🐛 39 | 📅 2025-05-10
+* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices) ⭐ 12,322 | 🐛 39 | 📅 2025-05-10
 * [Taylor Otwell](http://taylorotwell.com/)
 * [Tuts+](https://code.tutsplus.com/categories/laravel)
 * [Medium](https://medium.com/tag/laravel/latest)
@@ -409,16 +409,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 ## Starter Projects
 
 * [Voyager](https://github.com/the-control-group/voyager) ⚠️ Archived
-* [Laravel Admin](https://github.com/z-song/laravel-admin) ⭐ 11,137 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
+* [Laravel Admin](https://github.com/z-song/laravel-admin) ⭐ 11,138 | 🐛 262 | 🌐 PHP | 📅 2026-05-02
 * [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) ⚠️ Archived
-* [Orchid](https://github.com/TheOrchid/Platform) ⭐ 4,795 | 🐛 178 | 🌐 PHP | 📅 2026-09-02
+* [Orchid](https://github.com/TheOrchid/Platform) ⭐ 4,796 | 🐛 178 | 🌐 PHP | 📅 2026-09-02
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero) ⭐ 4,002 | 🐛 58 | 🌐 PHP | 📅 2026-08-12
 * [Hello API](https://github.com/Porto-SAP/Hello-API) ⭐ 3,109 | 🐛 12 | 🌐 PHP | 📅 2026-05-29
 * [Apiato](https://github.com/apiato/apiato) ⭐ 3,109 | 🐛 12 | 🌐 PHP | 📅 2026-05-29
 * [AdminLTE Laravel](https://github.com/acacha/adminlte-laravel) ⭐ 1,796 | 🐛 41 | 🌐 PHP | 📅 2025-10-23
 * [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter) ⭐ 1,685 | 🐛 9 | 🌐 PHP | 📅 2023-12-14
 * [Laravel Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter) ⭐ 1,647 | 🐛 3 | 🌐 PHP | 📅 2021-11-01
-* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) ⭐ 1,583 | 🐛 164 | 🌐 JavaScript | 📅 2024-01-05
+* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) ⭐ 1,582 | 🐛 164 | 🌐 JavaScript | 📅 2024-01-05
 * [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt) ⭐ 1,174 | 🐛 6 | 🌐 PHP | 📅 2019-07-10
 * [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,093 | 🐛 9 | 🌐 PHP | 📅 2026-08-11
 * [Backpack for Laravel](https://github.com/Laravel-Backpack/Base) ⚠️ Archived
@@ -433,17 +433,17 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Codebases for Reference
 
-* [Monica](https://github.com/monicahq/monica) ⭐ 25,216 | 🐛 794 | 🌐 PHP | 📅 2026-04-24 - Personal relationship management system
-* [Koel](https://github.com/phanan/koel) ⭐ 17,239 | 🐛 18 | 🌐 PHP | 📅 2026-09-03 - Personal music streaming server
-* [Cachet](https://github.com/cachethq/Cachet) ⭐ 15,233 | 🐛 6 | 🌐 PHP | 📅 2026-08-31 - Status page system for websites and APIs
-* [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 14,898 | 🐛 924 | 🌐 PHP | 📅 2026-09-02 - IT asset/license management system
+* [Monica](https://github.com/monicahq/monica) ⭐ 25,222 | 🐛 794 | 🌐 PHP | 📅 2026-04-24 - Personal relationship management system
+* [Koel](https://github.com/phanan/koel) ⭐ 17,238 | 🐛 18 | 🌐 PHP | 📅 2026-09-03 - Personal music streaming server
+* [Cachet](https://github.com/cachethq/Cachet) ⭐ 15,234 | 🐛 6 | 🌐 PHP | 📅 2026-08-31 - Status page system for websites and APIs
+* [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 14,903 | 🐛 925 | 🌐 PHP | 📅 2026-09-02 - IT asset/license management system
 * [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,101 | 🐛 13 | 🌐 PHP | 📅 2026-09-03 - Accounting software for small businesses and freelancers
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,047 | 🐛 938 | 🌐 PHP | 📅 2026-09-03 - Invoicing, expenses, & time-tracking application
-* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,085 | 🐛 111 | 🌐 PHP | 📅 2026-09-03 - A free and ethical photo sharing platform, powered by ActivityPub federation
-* [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,274 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Ticket selling and event management platform
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,048 | 🐛 939 | 🌐 PHP | 📅 2026-09-03 - Invoicing, expenses, & time-tracking application
+* [Pixelfed](https://github.com/pixelfed/pixelfed) ⭐ 7,088 | 🐛 111 | 🌐 PHP | 📅 2026-09-03 - A free and ethical photo sharing platform, powered by ActivityPub federation
+* [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,273 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Ticket selling and event management platform
 * [Canvas](https://github.com/cnvs/canvas) ⭐ 3,348 | 🐛 7 | 🌐 PHP | 📅 2026-08-22 - A Laravel Publishing Platform
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) ⭐ 2,909 | 🐛 63 | 🌐 PHP | 📅 2025-05-14 - Task management with Git and Scrum
-* [Laravel.io](https://github.com/laravelio/portal) ⭐ 2,498 | 🐛 12 | 🌐 PHP | 📅 2026-09-01 - Source for the Laravel.io Community Portal
+* [Laravel.io](https://github.com/laravelio/portal) ⭐ 2,498 | 🐛 12 | 🌐 PHP | 📅 2026-09-04 - Source for the Laravel.io Community Portal
 * [Vuedo](https://github.com/Vuedo/vuedo) ⭐ 2,268 | 🐛 24 | 🌐 PHP | 📅 2020-10-01 - Vuedo is blog platform, built with Laravel and Vue.js
 * [Jigsaw](https://github.com/tightenco/jigsaw) ⭐ 2,251 | 🐛 6 | 🌐 HTML | 📅 2026-08-11 - Static site generator
 * [Torch](https://github.com/mattstauffer/Torch) ⭐ 1,869 | 🐛 14 | 🌐 PHP | 📅 2024-01-27 - Examples of using each Illuminate component in non-Laravel applications
@@ -454,9 +454,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,6
 
 ## Content Management Systems
 
-* [OctoberCMS](https://github.com/octobercms/october) ⭐ 11,146 | 🐛 15 | 🌐 PHP | 📅 2026-08-31
+* [OctoberCMS](https://github.com/octobercms/october) ⭐ 11,146 | 🐛 15 | 🌐 PHP | 📅 2026-09-03
 * [Twill](https://github.com/area17/twill) ⭐ 3,974 | 🐛 134 | 🌐 PHP | 📅 2026-07-31
-* [Microweber](https://github.com/microweber/microweber) ⭐ 3,435 | 🐛 385 | 🌐 HTML | 📅 2026-09-02
+* [Microweber](https://github.com/microweber/microweber) ⭐ 3,435 | 🐛 385 | 🌐 HTML | 📅 2026-09-03
 * [PyroCMS](https://github.com/pyrocms/pyrocms) ⭐ 3,174 | 🐛 6 | 🌐 PHP | 📅 2026-05-21
 * [Lavalite](https://github.com/LavaLite/cms) ⭐ 2,892 | 🐛 211 | 🌐 PHP | 📅 2023-09-28
 * [PJ Blog](https://github.com/jcc/blog/) ⭐ 2,854 | 🐛 38 | 🌐 PHP | 📅 2023-06-08
@@ -558,7 +558,7 @@ Found an awesome package, blog, course or video? Send me a pull request!
 * Please make an individual pull request for each suggestion
 * Make sure the Travis tests pass on your pull request
 * Use the following format for links: \[Resource]\(URL)
-* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md) ⭐ 13,096 | 🐛 87 | 📅 2024-07-03
+* Want to suggest a package? Read the [Contribution Guide](https://github.com/chiraggude/awesome-laravel/blob/master/CONTRIBUTING.md) ⭐ 13,097 | 🐛 88 | 📅 2024-07-03
 * New categories or improvements to the existing categorization are welcome
 
 ## License
@@ -569,4 +569,4 @@ Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 Internati
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
