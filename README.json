@@ -323,7 +323,7 @@
                 "open_issues": 73,
                 "owner": "fruitcake",
                 "repo": "laravel-debugbar",
-                "stars": 19276,
+                "stars": 19277,
                 "topics": [
                   "debugbar",
                   "developer-tool",
@@ -376,7 +376,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-09T14:16:20Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "laravel",
                 "repo": "telescope",
                 "stars": 5227,
@@ -489,7 +489,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-mail-preview",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "laravel",
                   "mail",
@@ -1067,7 +1067,7 @@
                 "open_issues": 24,
                 "owner": "nWidart",
                 "repo": "laravel-modules",
-                "stars": 6207,
+                "stars": 6208,
                 "topics": [
                   "architecture",
                   "hacktoberfest",
@@ -1200,7 +1200,7 @@
                 "open_issues": 0,
                 "owner": "cviebrock",
                 "repo": "eloquent-sluggable",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": [
                   "eloquent-models",
                   "laravel",
@@ -1225,7 +1225,7 @@
                 "open_issues": 13,
                 "owner": "owen-it",
                 "repo": "laravel-auditing",
-                "stars": 3463,
+                "stars": 3464,
                 "topics": [
                   "audit",
                   "auditing",
@@ -1258,7 +1258,7 @@
                 "open_issues": 33,
                 "owner": "artesaos",
                 "repo": "seotools",
-                "stars": 3366,
+                "stars": 3367,
                 "topics": [
                   "facade",
                   "json-ld",
@@ -1558,7 +1558,7 @@
                 "open_issues": 30,
                 "owner": "rashidlaasri",
                 "repo": "LaravelInstaller",
-                "stars": 1937,
+                "stars": 1936,
                 "topics": [
                   "laravel",
                   "laravel-installer"
@@ -1723,7 +1723,7 @@
                 "open_issues": 54,
                 "owner": "nahid",
                 "repo": "talk",
-                "stars": 1620,
+                "stars": 1621,
                 "topics": [
                   "conversation",
                   "inbox",
@@ -2011,7 +2011,7 @@
                 "open_issues": 4,
                 "owner": "mpociot",
                 "repo": "teamwork",
-                "stars": 1098,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:20.662Z"
@@ -2388,7 +2388,7 @@
                 "open_issues": 22,
                 "owner": "Intervention",
                 "repo": "image",
-                "stars": 14369,
+                "stars": 14370,
                 "topics": [
                   "gd",
                   "image",
@@ -2444,7 +2444,7 @@
                 "open_issues": 99,
                 "owner": "barryvdh",
                 "repo": "laravel-dompdf",
-                "stars": 7284,
+                "stars": 7285,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -2469,7 +2469,7 @@
                 "open_issues": 1,
                 "owner": "spatie",
                 "repo": "laravel-medialibrary",
-                "stars": 6163,
+                "stars": 6162,
                 "topics": [
                   "eloquent",
                   "hacktoberfest",
@@ -2694,7 +2694,7 @@
                 "open_issues": 16,
                 "owner": "livewire",
                 "repo": "livewire",
-                "stars": 23575,
+                "stars": 23576,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:20.662Z"
@@ -2832,7 +2832,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-pjax",
-                "stars": 512,
+                "stars": 511,
                 "topics": [
                   "javascript",
                   "laravel",
@@ -2866,7 +2866,7 @@
                 "open_issues": 45,
                 "owner": "mongodb",
                 "repo": "laravel-mongodb",
-                "stars": 7068,
+                "stars": 7069,
                 "topics": [
                   "eloquent",
                   "laravel",
@@ -2896,7 +2896,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-backup",
-                "stars": 6021,
+                "stars": 6023,
                 "topics": [
                   "backup",
                   "database",
@@ -2945,7 +2945,7 @@
                 "open_issues": 218,
                 "owner": "lazychaser",
                 "repo": "laravel-nestedset",
-                "stars": 3801,
+                "stars": 3802,
                 "topics": [
                   "hierarchical-data",
                   "laravel",
@@ -3037,8 +3037,8 @@
                 "id": 14637455,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-09T07:57:10Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-12T05:56:01Z",
+                "open_issues": 16,
                 "owner": "yajra",
                 "repo": "laravel-oci8",
                 "stars": 871,
@@ -3695,8 +3695,8 @@
                 "id": 16650131,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-20T12:51:23Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-11T14:39:02Z",
+                "open_issues": 2,
                 "owner": "laravel",
                 "repo": "envoy",
                 "stars": 1615,
@@ -4072,7 +4072,7 @@
                 "open_issues": 2,
                 "owner": "Laravel-Lang",
                 "repo": "lang",
-                "stars": 7772,
+                "stars": 7773,
                 "topics": [
                   "i18n",
                   "language",
@@ -4465,7 +4465,7 @@
             "open_issues": 21,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12675,
+            "stars": 12673,
             "topics": [
               "docker",
               "docker-compose",
@@ -5348,7 +5348,7 @@
             "open_issues": 795,
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25264,
+            "stars": 25267,
             "topics": [
               "crm",
               "family",
@@ -5374,7 +5374,7 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-09T15:45:32Z",
+            "last_commit": "2026-09-12T05:01:03Z",
             "open_issues": 16,
             "owner": "koel",
             "repo": "koel",
@@ -5407,7 +5407,7 @@
             "open_issues": 7,
             "owner": "cachethq",
             "repo": "cachet",
-            "stars": 15239,
+            "stars": 15237,
             "topics": [
               "cachet",
               "laravel",
@@ -5432,11 +5432,11 @@
             "id": 14346979,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T09:46:18Z",
-            "open_issues": 935,
+            "last_commit": "2026-09-11T15:23:00Z",
+            "open_issues": 938,
             "owner": "grokability",
             "repo": "snipe-it",
-            "stars": 14927,
+            "stars": 14928,
             "topics": [
               "asset-management",
               "asset-manager",
@@ -5459,11 +5459,11 @@
             "id": 95011974,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T23:58:42Z",
+            "last_commit": "2026-09-11T21:44:01Z",
             "open_issues": 14,
             "owner": "akaunting",
             "repo": "akaunting",
-            "stars": 10117,
+            "stars": 10120,
             "topics": [
               "accounting",
               "akaunting",
@@ -5500,11 +5500,11 @@
             "id": 14716368,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T00:37:42Z",
-            "open_issues": 945,
+            "last_commit": "2026-09-12T01:15:40Z",
+            "open_issues": 944,
             "owner": "invoiceninja",
             "repo": "invoiceninja",
-            "stars": 10072,
+            "stars": 10071,
             "topics": [
               "einvoicing",
               "expenses",
@@ -5538,11 +5538,11 @@
             "id": 129829848,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T05:36:53Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-12T06:32:50Z",
+            "open_issues": 119,
             "owner": "pixelfed",
             "repo": "pixelfed",
-            "stars": 7097,
+            "stars": 7098,
             "topics": [
               "activitypub",
               "federation",
@@ -5599,7 +5599,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-09-08T21:23:18Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "austintoddj",
             "repo": "canvas",
             "stars": 3351,
@@ -5851,11 +5851,11 @@
             "id": 14732311,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T11:25:57Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-11T23:24:09Z",
+            "open_issues": 16,
             "owner": "octobercms",
             "repo": "october",
-            "stars": 11145,
+            "stars": 11146,
             "topics": [
               "backend",
               "cmf",
@@ -6209,7 +6209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:39:35.582Z",
+    "last_updated": "2026-09-12T06:33:00.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
@@ -6221,7 +6221,7 @@
       "open_issues": 89,
       "owner": "chiraggude",
       "repo": "awesome-laravel",
-      "stars": 13099,
+      "stars": 13100,
       "topics": [
         "awesome",
         "laravel",
