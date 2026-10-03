@@ -21,7 +21,7 @@
                 "open_issues": 193,
                 "owner": "barryvdh",
                 "repo": "laravel-ide-helper",
-                "stars": 14969,
+                "stars": 14970,
                 "topics": [
                   "autocompletion",
                   "hacktoberfest",
@@ -2384,8 +2384,8 @@
                 "id": 7704544,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:48:19Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-03T06:13:02Z",
+                "open_issues": 26,
                 "owner": "Intervention",
                 "repo": "image",
                 "stars": 14376,
@@ -2863,7 +2863,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:41:27Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "mongodb",
                 "repo": "laravel-mongodb",
                 "stars": 7067,
@@ -2896,7 +2896,7 @@
                 "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-backup",
-                "stars": 6025,
+                "stars": 6026,
                 "topics": [
                   "backup",
                   "database",
@@ -4107,7 +4107,7 @@
                 "open_issues": 11,
                 "owner": "mcamara",
                 "repo": "laravel-localization",
-                "stars": 3557,
+                "stars": 3558,
                 "topics": [
                   "language-selector",
                   "laravel",
@@ -5348,7 +5348,7 @@
             "open_issues": 790,
             "owner": "monicahq",
             "repo": "monica",
-            "stars": 25408,
+            "stars": 25410,
             "topics": [
               "crm",
               "family",
@@ -5501,7 +5501,7 @@
             "open_issues": 7,
             "owner": "akaunting",
             "repo": "akaunting",
-            "stars": 10158,
+            "stars": 10159,
             "topics": [
               "accounting",
               "akaunting",
@@ -5855,7 +5855,7 @@
             "open_issues": 17,
             "owner": "octobercms",
             "repo": "october",
-            "stars": 11149,
+            "stars": 11148,
             "topics": [
               "backend",
               "cmf",
@@ -6209,7 +6209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:48.396Z",
+    "last_updated": "2026-10-03T07:08:05.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
