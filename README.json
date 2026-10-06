@@ -669,7 +669,7 @@
                 "open_issues": 4,
                 "owner": "spatie",
                 "repo": "laravel-permission",
-                "stars": 12969,
+                "stars": 12970,
                 "topics": [
                   "laravel",
                   "permission",
@@ -1150,7 +1150,7 @@
                 "open_issues": 11,
                 "owner": "archtechx",
                 "repo": "tenancy",
-                "stars": 4418,
+                "stars": 4419,
                 "topics": [
                   "laravel",
                   "multi-tenancy",
@@ -2170,7 +2170,7 @@
                 "open_issues": 27,
                 "owner": "PHPJunior",
                 "repo": "laravel-video-chat",
-                "stars": 816,
+                "stars": 817,
                 "topics": [
                   "chat",
                   "laravel",
@@ -2694,7 +2694,7 @@
                 "open_issues": 64,
                 "owner": "livewire",
                 "repo": "livewire",
-                "stars": 23586,
+                "stars": 23587,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:20.662Z"
@@ -2862,7 +2862,7 @@
                 "id": 9131292,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T04:23:52Z",
+                "last_commit": "2026-10-06T09:30:34Z",
                 "open_issues": 52,
                 "owner": "mongodb",
                 "repo": "laravel-mongodb",
@@ -3495,7 +3495,7 @@
                 "open_issues": 189,
                 "owner": "dingo",
                 "repo": "api",
-                "stars": 9381,
+                "stars": 9380,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:20.662Z"
@@ -4072,7 +4072,7 @@
                 "open_issues": 0,
                 "owner": "Laravel-Lang",
                 "repo": "lang",
-                "stars": 7779,
+                "stars": 7778,
                 "topics": [
                   "i18n",
                   "language",
@@ -4706,7 +4706,7 @@
             "open_issues": 457,
             "owner": "thedevdojo",
             "repo": "voyager",
-            "stars": 11796,
+            "stars": 11795,
             "topics": [
               "laravel",
               "laravel-admin",
@@ -4786,7 +4786,7 @@
             "open_issues": 181,
             "owner": "orchidsoftware",
             "repo": "platform",
-            "stars": 4798,
+            "stars": 4799,
             "topics": [
               "admin",
               "dashboard",
@@ -5433,7 +5433,7 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-05T23:03:23Z",
-            "open_issues": 927,
+            "open_issues": 928,
             "owner": "grokability",
             "repo": "snipe-it",
             "stars": 15007,
@@ -5463,7 +5463,7 @@
             "open_issues": 224,
             "owner": "invoiceninja",
             "repo": "invoiceninja",
-            "stars": 10226,
+            "stars": 10229,
             "topics": [
               "einvoicing",
               "expenses",
@@ -5501,7 +5501,7 @@
             "open_issues": 7,
             "owner": "akaunting",
             "repo": "akaunting",
-            "stars": 10159,
+            "stars": 10161,
             "topics": [
               "accounting",
               "akaunting",
@@ -5823,7 +5823,7 @@
             "open_issues": 4,
             "owner": "stefanzweifel",
             "repo": "screeenly",
-            "stars": 532,
+            "stars": 533,
             "topics": [
               "application",
               "laravel",
@@ -5910,7 +5910,7 @@
             "id": 968839,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-29T13:31:58Z",
+            "last_commit": "2026-10-06T08:43:58Z",
             "open_issues": 385,
             "owner": "microweber",
             "repo": "microweber",
@@ -6209,7 +6209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:10:52.820Z",
+    "last_updated": "2026-10-06T10:46:46.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
